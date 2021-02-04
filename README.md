@@ -1,1 +1,2 @@
 # HttpClient
+Оновити Connection string
